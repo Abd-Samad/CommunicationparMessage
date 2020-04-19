@@ -1,0 +1,15 @@
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csprojAssemblyReference.cache
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CoreCompileInputs.cache
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfoInputs.cache
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.AssemblyInfo.cs
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.exe
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.deps.json
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.json
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.runtimeconfig.dev.json
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.csproj.CopyComplete
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.dll
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.pdb
+C:\Users\Libre\Source\Repos\CommuniMessage\LogEmitter\obj\Debug\netcoreapp3.1\LogEmitter.genruntimeconfig.cache

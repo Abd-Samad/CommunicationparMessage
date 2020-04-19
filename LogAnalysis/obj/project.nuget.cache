@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Le+fNqhi1QM53U+sH6QbJ2eVsrR67Ozqz8H8UpK8ekfvMZ/mk3AEQ3J85yhipdQ4vzsksjGyYzFyzkGdNBDtoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Libre\\Source\\Repos\\CommuniMessage\\LogAnalysis\\LogAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Libre\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Libre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
